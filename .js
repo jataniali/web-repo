@@ -1,0 +1,1 @@
+c:\Users\Probook\Downloads\smooth-scroll-master\smooth-scroll-master\dist\smooth-scroll.js
